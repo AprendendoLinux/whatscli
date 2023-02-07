@@ -61,7 +61,7 @@ Para deslogar do WhatsApp, faça o comando abaixo:
 docker exec -it whatsapp npx mudslide logout
 ~~~
 
-Pra quem tiver a curiosidade de como foi construído esse **Dockerfile**, segue o [**link do projeto**](https://docs.docker.com/engine/install/).
+Segue o [**link do projeto**](https://hub.docker.com/r/aprendendolinux/whatscli) no DockerHub.
 
 Isso é tudo, espero que vocês tenham gostado!
 
