@@ -52,7 +52,7 @@ Faça o login como se estivesse fazendo no WhatsApp Web, normalmente.
 Agora, para mandar mensagens, faça o comando:
 
 ~~~bash
-docker exec -it whatsapp npx mudslide send 5521999999999 'Mensagem de Teste!'
+docker exec whatsapp npx mudslide send 5521999999999 'Mensagem de Teste!'
 ~~~
 
 Para deslogar do WhatsApp, faça o comando abaixo:
